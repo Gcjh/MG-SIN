@@ -1,4 +1,4 @@
-# MG-SIN
+# TNNLS2023 - MG-SIN: Multi-Graph Sparse Interaction Network for Multi-Task Stance Detection
 This project involves the code and supplementary materials of paper "MG-SIN: Multi-Graph Sparse Interaction Network for Multi-Task Stance Detection".
 
 # Dependencies
